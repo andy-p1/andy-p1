@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andy-p1
-- 👀 I’m interested in cars
+- 👀 I’m interested in web development and cars!
 - 🌱 I’m currently learning javascript
 - 📫 How to reach me: andy.perez.1@hotmail.com
 
